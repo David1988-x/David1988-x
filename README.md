@@ -17,3 +17,5 @@ Through this collection, I reinterpret that era with modern cinematic lighting, 
 All artworks in this project are AI-generated and curated by **DavidDesign1988** (GitHub: **David1988-x**).  
 Each piece is timestamped, verified via C2PA, and linked to decentralized vault logic on Arweave and OpenSea.  
 These works are **not for commercial sale** and exist as a **record of authorship and creative provenance**.
+
+ Future releases will expand the series with additional cinematic batches, continuing the exploration of AI-driven visual storytelling.
